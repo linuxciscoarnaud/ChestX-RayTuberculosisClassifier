@@ -13,4 +13,5 @@ I conducted a 6-fold cross-validation study on both the two datasets. The networ
 
 ### Montgomery County chest X-ray set (MC)
 
-![Results](https://user-images.githubusercontent.com/1300982/62683059-7e423c80-b9b5-11e9-9115-2c748677e770.png)
+![Results](https://user-images.githubusercontent.com/1300982/62692049-d4b87680-b9c7-11e9-8bc1-efcd6f3a7955.png)
+
