@@ -7,3 +7,6 @@ Shenzhen chest X-ray set, which can both be found [here](https://ceb.nlm.nih.gov
 
 ## Results
 I conducted a 6-fold cross-validation study on both the two datasets. The network was trained on my old laptop which has the following characteristics:
+- Processor: Intel(R) Core(TM) i3-2310M CPU @ 2.10GHz 2.10GHz
+- Installed memory (RAM): 4.00 GB (3.85 GB usable)
+- System type: 64-bit Operating System, x64-based processor
