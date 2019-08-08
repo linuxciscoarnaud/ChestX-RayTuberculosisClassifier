@@ -13,7 +13,7 @@ I conducted a 6-fold cross-validation study on both the two datasets. The networ
 
 ### Montgomery County chest X-ray set (MC)
 
-![Results](https://user-images.githubusercontent.com/1300982/62693065-afc50300-b9c9-11e9-95c8-0c71de7afdaf.png)
+![Results](https://user-images.githubusercontent.com/1300982/62710392-1f99b480-b9ef-11e9-99cd-0e9b548bc88b.png)
 
 ### Shenzhen chest X-ray set
 
