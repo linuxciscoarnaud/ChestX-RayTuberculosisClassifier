@@ -10,3 +10,5 @@ I conducted a 6-fold cross-validation study on both the two datasets. The networ
 - Processor: Intel(R) Core(TM) i3-2310M CPU @ 2.10GHz 2.10GHz
 - Installed memory (RAM): 4.00 GB (3.85 GB usable)
 - System type: 64-bit Operating System, x64-based processor
+
+### Montgomery County chest X-ray set (MC)
