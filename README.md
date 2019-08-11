@@ -7,7 +7,7 @@ Shenzhen chest X-ray set, which can both be found [here](https://ceb.nlm.nih.gov
 
 ## Get it to work
 - Clone the repository.
-- Download the training data at the following link: (to be specify later). These data have already been pre-processed as described in the previously cited paper. They have already been orginized so as to be ready for the 6-fold cross-validation study.
+- Download the training data at the following link: (to be specify later). These data have already been pre-processed as described in the previously cited paper. They have already been orginized so as to be ready for the 6-fold cross-validation study. Unzip the downloaded file and place the resulting directory within the following location: "application directory"/src/main/resources/.
 
 ## Results
 I conducted a 6-fold cross-validation study on both the two datasets. The network was trained on my old laptop which has the following characteristics:
