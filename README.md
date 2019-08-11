@@ -2,7 +2,7 @@
 
 This is an implementation of a CNN-based tuberculosis diagnosis described in the paper: [Efficient Deep Network Architectures for Fast 
 Chest X-Ray Tuberculosis Screening and Visualization](https://www.nature.com/articles/s41598-019-42557-4). It makes use of the 
-deeplearning4j library. The network is successively trained on two datasets: the Montgomery County chest X-ray set (MC) and the 
+deeplearning4j library. I trained the network using the Early Stopping technique to make sure i end up with the best model and avoid overfitting. The network is successively trained on two datasets: the Montgomery County chest X-ray set (MC) and the 
 Shenzhen chest X-ray set, which can both be found [here](https://ceb.nlm.nih.gov/repositories/tuberculosis-chest-x-ray-image-data-sets/).
 
 ## Get it to work
@@ -15,7 +15,7 @@ I conducted a 6-fold cross-validation study on both the two datasets. The networ
 - Installed memory (RAM): 4.00 GB (3.85 GB usable)
 - System type: 64-bit Operating System, x64-based processor
 
-The training time can be significantly reduced if application is runned more advanced CPU/GPU architectures.
+The training time can be significantly reduced if application is runned on more advanced CPU/GPU architectures.
 
 ### Montgomery County chest X-ray set (MC)
 
