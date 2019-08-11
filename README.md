@@ -11,6 +11,8 @@ I conducted a 6-fold cross-validation study on both the two datasets. The networ
 - Installed memory (RAM): 4.00 GB (3.85 GB usable)
 - System type: 64-bit Operating System, x64-based processor
 
+The training time can be significantly reduced if application is runned more advanced CPU/GPU architectures.
+
 ### Montgomery County chest X-ray set (MC)
 
 ![Results](https://user-images.githubusercontent.com/1300982/62825870-5c5ddb00-bbaa-11e9-84f9-0274399c86d3.png)
