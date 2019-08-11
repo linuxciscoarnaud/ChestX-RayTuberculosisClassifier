@@ -18,4 +18,5 @@ I conducted a 6-fold cross-validation study on both the two datasets. The networ
 ![AUC](https://user-images.githubusercontent.com/1300982/62826089-9086cb00-bbad-11e9-9199-1bde548e05b0.png)
 
 ### Shenzhen chest X-ray set
+(Comming soon)
 
