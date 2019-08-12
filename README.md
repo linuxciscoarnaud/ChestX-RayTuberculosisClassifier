@@ -21,9 +21,9 @@ I report here the accuracies, the AUC and the AUC values for each run on the tes
 
 ### Montgomery County chest X-ray set (MC)
 
-![Results](https://user-images.githubusercontent.com/1300982/62825870-5c5ddb00-bbaa-11e9-84f9-0274399c86d3.png)
+![Results](https://user-images.githubusercontent.com/1300982/62847170-d25a6300-bccc-11e9-89fd-72ca694efba2.png)
 
-![AUC](https://user-images.githubusercontent.com/1300982/62826089-9086cb00-bbad-11e9-9199-1bde548e05b0.png)
+![AUC](https://user-images.githubusercontent.com/1300982/62847181-e00fe880-bccc-11e9-8879-86ed9a64a565.png)
 
 ### Shenzhen chest X-ray set
 (Comming soon)
