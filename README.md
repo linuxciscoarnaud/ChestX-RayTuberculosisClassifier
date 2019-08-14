@@ -10,7 +10,7 @@ Shenzhen chest X-ray set, which can both be found [here](https://ceb.nlm.nih.gov
 - Download the training data at the following link: (to be specify later). These data have already been pre-processed as described in the previously cited paper. They have already been orginized so as to be ready for the 6-fold cross-validation study. Unzip the downloaded file and place the resulting directory (Montgomery) within the following location: "application directory"/src/main/resources/.
 - In the file ChestXRayTuberculosis.java located within the com.chestxraytuberculosiskfoldswithearlystopping package, modify the code lines 99 and 100 to allow the program to find the directory paths of the training and validation data, for a given run that you intend to execute. For example, if you intend to train the netwotk with data corresponding to the first run, lines 99 and 100 should respectively look like this:
 
-```
+```java
 File mainTrainPath = new File(System.getProperty("user.dir"), "/src/main/resources/Montgomery/6-FoldsData/run1/data/");
 File maintTestPath = new File(System.getProperty("user.dir"), "/src/main/resources/Montgomery/6-FoldsData/run1/Validation1/");
 ```
