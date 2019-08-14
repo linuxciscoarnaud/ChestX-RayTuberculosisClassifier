@@ -19,12 +19,14 @@ The training time can be significantly reduced if application is runned on more 
 
 ### Montgomery County chest X-ray set (MC)
 
-I report here the validation accuracy, AUC value and AUC for the 6-fold cross-validation study on the Montgomery County chest X-ray set.
+I report here the validation accuracy, AUC value and AUC for the 6-fold cross-validation study conducted on the Montgomery County chest X-ray set.
 
 ![Validation_Results](https://user-images.githubusercontent.com/1300982/63007064-dd9dc200-be77-11e9-9aba-4005982dd2f0.png)
 
 ![Validation_AUC](https://user-images.githubusercontent.com/1300982/63007040-d1b20000-be77-11e9-8d63-fbed8f644157.png)
 
 ### Shenzhen chest X-ray set
+
+I report here the validation accuracy, AUC value and AUC for the 6-fold cross-validation study conducted on the Shenzhen chest X-ray set.
 (Comming soon)
 
