@@ -17,13 +17,13 @@ I conducted a 6-fold cross-validation study on both the two datasets. The networ
 
 The training time can be significantly reduced if application is runned on more advanced CPU/GPU architectures.
 
-I report here the accuracies, the AUC and the AUC values for each run on the test data.
-
 ### Montgomery County chest X-ray set (MC)
 
-![Results](https://user-images.githubusercontent.com/1300982/62926415-64856880-bdac-11e9-9f5f-1c59d09a14cf.png)
+I report here the validation accuracy, AUC value and AUC for the 6-fold cross-validation study on the Montgomery County chest X-ray set.
 
-![AUC](https://user-images.githubusercontent.com/1300982/62926449-736c1b00-bdac-11e9-9ba5-c814166a2efc.png)
+![Validation_Results](https://user-images.githubusercontent.com/1300982/63007064-dd9dc200-be77-11e9-9aba-4005982dd2f0.png)
+
+![Validation_AUC](https://user-images.githubusercontent.com/1300982/63007040-d1b20000-be77-11e9-8d63-fbed8f644157.png)
 
 ### Shenzhen chest X-ray set
 (Comming soon)
