@@ -14,6 +14,7 @@ Shenzhen chest X-ray set, which can both be found [here](https://ceb.nlm.nih.gov
 File mainTrainPath = new File(System.getProperty("user.dir"), "/src/main/resources/Montgomery/6-FoldsData/run1/data/");
 File maintTestPath = new File(System.getProperty("user.dir"), "/src/main/resources/Montgomery/6-FoldsData/run1/Validation1/");
 ```
+- Your good to go.
 
 ## Results
 I conducted a 6-fold cross-validation study on both the two datasets. The network was trained on my old laptop which has the following characteristics:
