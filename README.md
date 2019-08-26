@@ -5,6 +5,10 @@ Chest X-Ray Tuberculosis Screening and Visualization](https://www.nature.com/art
 deeplearning4j library. I trained the network using the Early Stopping technique to make sure i end up with the best model and avoid overfitting. The network is successively trained on two datasets: the Montgomery County chest X-ray set (MC) and the 
 Shenzhen chest X-ray set, which can both be found [here](https://ceb.nlm.nih.gov/repositories/tuberculosis-chest-x-ray-image-data-sets/).
 
+## Network Architecture
+Network architecture as described in the mentionned paper:
+![Untitled](https://user-images.githubusercontent.com/1300982/63720001-1eb5af00-c846-11e9-871a-1fce061cca80.png)
+
 ## Get it to work
 - Clone the repository.
 - Download the training data at the following [link](https://drive.google.com/uc?export=download&id=13QV34l2wPB6c1G2E7ovrIAx2rw4-tH9o). These data have already been pre-processed as indicated in the fouth paragraph of the "Methods Classifcation" section; (1), (2) and (3) of the cited paper  . They have already been orginized so as to be ready for the 6-fold cross-validation study. Unzip the downloaded file and place the resulting directory (Montgomery) within the following location: "application directory"/src/main/resources/.
