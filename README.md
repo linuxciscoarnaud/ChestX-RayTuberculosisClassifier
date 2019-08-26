@@ -7,7 +7,8 @@ Shenzhen chest X-ray set, which can both be found [here](https://ceb.nlm.nih.gov
 
 ## Network Architecture
 Network architecture as described in the mentionned paper:
-![Untitled](https://user-images.githubusercontent.com/1300982/63720001-1eb5af00-c846-11e9-871a-1fce061cca80.png)
+
+![Untitled](https://user-images.githubusercontent.com/1300982/63720134-6d634900-c846-11e9-86ec-70f79d9a3d74.png)
 
 ## Get it to work
 - Clone the repository.
